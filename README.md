@@ -1,2 +1,4 @@
 # hello-workd
-I can not install dockerTTTTTTTTTTTTTT
+I hope I will deal with the docker bug ....==!!!!
+じゃ　明日餃子なんか作りつもりです
+
